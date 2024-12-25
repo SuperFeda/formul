@@ -16,7 +16,10 @@ $a^{m} \times a^{b} = a^{m+n}$<br>
 $a^{m} \div a^{b} = a^{m-n}$<br>
 $(a^{m})^{n} = a^{m \times n}$<br>
 $(a \times b)^{n} = a^{n} \times b^{n}$<br>
-$\Big(\frac{a}{b}\Big)^n = \frac{a^{n}}{b^{n}}$
+
+$\Big(\frac{a}{b}\Big)^n = \frac{a^{n}}{b^{n}}$<br>
+
+$a^{-n} = \frac{1}{a^{n}}$
   
 </details>
 
@@ -123,6 +126,25 @@ $tg(a-b) = \frac{tg(a)-tg(b)}{1 + tg(a) \times tg(b)}$
 $ctg(a+b) = \frac{-1 + ctg(a) \times ctg(b)}{ctg(a)+ctg(b)}$
 
 $ctg(a-b) = \frac{-1 - ctg(a) \times ctg(b)}{ctg(a)-ctg(b)}$
+
+### Формулы двойного угла</br>
+$sin(2a) = 2sin(a) \times cos(a)$</br>
+$cos(2a) = cos^{2}a - sin^{2}a$<br>
+$cos(2a) = 1-2sin^{2}a = 2cos^{2}a-1$<br>
+
+$tg(2a) = \frac{2tg(a)}{1-tg^{2}a}$<br>
+
+### Свойства обратных тригонометрических функций<br>
+$arcsin(-a) = -arcsin(a)$<br>
+$arccos(-a) = \pi - arccos(a)$<br>
+$arctg(-a) = -arctg(a)$<br>
+$arcctg(-a) = -arcctg(a)$<br>
+
+### Формулы корней тригонометрических функций
+$sin(t) = a; t = (-1)^{k} \times arcsin(a) + \pi k, k \in Z$<br>
+$cos(t) = a; t = \pm arccos(a) + 2 \pi k, k \in Z$<br>
+$tg(t) = a; t = arctg(a) + \pi k, k \in Z$<br>
+$ctg(t) = a; t = arcctg(a) + \pi k, k \in Z$<br>
 
 </details>
 
