@@ -6,6 +6,8 @@ $\pi = 3.14159...$<br>
   
 </details>
 
+---
+
 <details>
 <summary>Свойства степеней</summary>
 
@@ -18,6 +20,8 @@ $\Big(\frac{a}{b}\Big)^n = \frac{a^{n}}{b^{n}}$
   
 </details>
 
+---
+
 <details>
 <summary>Log</summary>
   
@@ -27,9 +31,10 @@ $b>0$; $a>0$; $a\neq1$
 $lg(b)$ это $log_{10}b$</br>
 $ln(b)$ это $log_{e}b$
 
-Основное log тождество: $a^{log_{a}b} = b$
+### Основное log тождество:</br>
+$a^{log_{a}b} = b$
 
-Свойства:</br>
+### Свойства:</br>
 $log_{a}1 = 0$</br>
 $log_{a}a = 1$</br>
 $log_{a}\frac{1}{a} = -1$</br>
@@ -39,12 +44,14 @@ $log_{a^{p}}b = \frac{1}{p} \times log_{a}{b}$</br>
 $log_{a}b + log_{a}c = log_{a}(a \times b)$</br>
 $log_{a}b - log_{a}c = log_{a}\frac{b}{c}$</br>
 
-Формула перехода к новому основанию:
+### Формула перехода к новому основанию:
 
 $log_{a}b = \frac{log_{c}b}{log_{c}a}$</br>
 $c>0; c\neq1$
 
 </details>
+
+---
 
 <details>
 <summary>Арифметический корень</summary>
@@ -52,7 +59,7 @@ $c>0; c\neq1$
 $\sqrt[n]{a} = b \implies b^{n} = a$</br>
 $a\geq0$; $b\geq0$; $n \in N$; $n \geq 2$
 
-Свойства:</br>
+### Свойства:</br>
 
 $\sqrt[n]{a^{m}} = a^{\frac{m}{n}}$</br>
 
@@ -70,6 +77,8 @@ $\sqrt[2n]{a^{2n}} = |a|$
 
 </details>
 
+---
+
 <details>
 <summary>Тригонометрия</summary>
 
@@ -79,7 +88,42 @@ $\sqrt[2n]{a^{2n}} = |a|$
 | $cos(\alpha)$ | 1 | $\frac{\sqrt[]{3}}{2}$ | $\frac{\sqrt[]{2}}{2}$ | $\frac{1}{2}$ | $0$ | $-1$ | $0$ | $1$ |
 | $tg(\alpha)$ | 0 | $\frac{\sqrt[]{3}}{3}$ | $1$ | $\sqrt[]{3}$ | $-$ | $0$ | $-$ | $0$ |
 | $ctg(\alpha)$ | - | $\frac{3}{\sqrt[]{3}}$ | $1$ | $\frac{\sqrt[]{3}}{3}$ | $0$ | $-$ | $0$ | $-$ |
-  
+
+![](https://github.com/SuperFeda/formul/blob/main/snaki-4160711157.jpg)
+
+### Основные тригонометрические тождества</br>
+$sin^{2}(a) + cos^{2}(a) = 1$</br>
+
+$tg(a) = \frac{sin(a)}{cos(a)}$</br>
+
+$ctg(a) = \frac{cos(a)}{sin(a)}$</br>
+
+$tg(a) \times ctg(a) = 1$</br>
+
+$1 + tg^{2}(a) = \frac{1}{cos^{2}a}$</br>
+
+$1 + ctg^{2}(a) = \frac{1}{sin^{2}a}$</br>
+
+### Четность / нечетность</br>
+$sin(-a) = -sin(a)$</br>
+$cos(-a) = cos(a)$</br>
+$tg(-a) = -tg(a)$</br>
+$ctg(-a) = -ctg(a)$</br>
+
+### Формулы сложения/вычитания</br>
+$sin(a+b) = sin(a) \times cos(b) + cos(a) \times sin(b)$</br>
+$sin(a-b) = sin(a) \times cos(b) - cos(a) \times sin(b)$</br>
+$cos(a+b) = cos(a) \times cos(b) - sin(a) \times sin(b)$</br>
+$cos(a-b) = cos(a) \times cos(b) + sin(a) \times sin(b)$</br>
+
+$tg(a+b) = \frac{tg(a)+tg(b)}{1 - tg(a) \times tg(b)}$
+
+$tg(a-b) = \frac{tg(a)-tg(b)}{1 + tg(a) \times tg(b)}$
+
+$ctg(a+b) = \frac{-1 + ctg(a) \times ctg(b)}{ctg(a)+ctg(b)}$
+
+$ctg(a-b) = \frac{-1 - ctg(a) \times ctg(b)}{ctg(a)-ctg(b)}$
+
 </details>
 
 
