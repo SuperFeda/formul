@@ -9,6 +9,38 @@ $\pi = 3.14159...$<br>
 ---
 
 <details>
+<summary>Формулы сокращенного умножения</summary>
+
+$a^{2} - b^{2} = (a-b)(a+b)$</br>
+$(a+b)^{2} = a^{2} + 2ab + b^{2}$</br>
+$(a-b)^{2} = a^{2} - 2ab + b^{2}$</br>
+$a^{3} + b^{3} = (a+b)(a^{2} - ab + b^{2})$</br>
+$a^{3} - b^{3} = (a-b)(a^{2} + ab + b^{2})$</br>
+$(a + b)^{3} = a^{3} + 3a^{2}b + 3ab^{2} + b^{3}$</br>
+$(a - b)^{3} = a^{3} - 3a^{2}b + 3ab^{2} - b^{3}$</br>
+  
+</details>
+
+---
+
+<details>
+<summary>Свойства степеней</summary>
+
+$a^{0} = 1$<br>
+$a^{m} \times a^{b} = a^{m+n}$<br>
+$a^{m} \div a^{b} = a^{m-n}$<br>
+$(a^{m})^{n} = a^{m \times n}$<br>
+$(a \times b)^{n} = a^{n} \times b^{n}$<br>
+
+$\Big(\frac{a}{b}\Big)^n = \frac{a^{n}}{b^{n}}$<br>
+
+$a^{-n} = \frac{1}{a^{n}}$
+  
+</details>
+
+---
+
+<details>
 <summary>Алгебра логики (алгебра высказываний)</summary>
 
 1) Конъюнкция (и) (& ∧)</br>Истино только тогда, когда истины все входящие в него простые высказывания.
@@ -46,23 +78,6 @@ A → B = $\overline{A}$ ∨ B
 A ↔ B = (A → B) & (B → A)<br>
 A ↔ B = ($\overline{A}$ → B) & ($\overline{B}$ → A)
 
-</details>
-
----
-
-<details>
-<summary>Свойства степеней</summary>
-
-$a^{0} = 1$<br>
-$a^{m} \times a^{b} = a^{m+n}$<br>
-$a^{m} \div a^{b} = a^{m-n}$<br>
-$(a^{m})^{n} = a^{m \times n}$<br>
-$(a \times b)^{n} = a^{n} \times b^{n}$<br>
-
-$\Big(\frac{a}{b}\Big)^n = \frac{a^{n}}{b^{n}}$<br>
-
-$a^{-n} = \frac{1}{a^{n}}$
-  
 </details>
 
 ---
