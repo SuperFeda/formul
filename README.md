@@ -95,6 +95,7 @@ $ln(b)$ это $log_{e}b$
 $a^{log_{a}b} = b$
 
 ### Свойства:</br>
+$log_{a}0 = \emptyset$</br>
 $log_{a}1 = 0$</br>
 $log_{a}a = 1$</br>
 $log_{a}\frac{1}{a} = -1$</br>
